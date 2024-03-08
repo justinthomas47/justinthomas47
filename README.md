@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on speaker age and gender verification **SonicSense**
 
-- 🌱 I’m currently learning **web and software developer**
+- 🌱 I’m currently learning **website and software development and designing**
 
 - 📫 How to reach me **justinthomas8910@gmail.com**
 
